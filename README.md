@@ -17,20 +17,18 @@
 
 ## To use this app follow below instructions :
 
-
-
-#### Clone this app using below syntax:
-
+* Clone this app using below syntax:
 ``` git clone https://github.com/Aleynaesr/blog-app-with-laravel-ap.git```
-
-* After cloning install packages using below syntax:
-
-``` flutter pub get ```
-
+* copy .env.exmaple file ```copy .env.example .env```
+* generate app key ```php artisan key:generate```
+* add database credentials
+* install dependencies ```composer install```
+* link storage ```php artisan storage:link```
+* run migration ``` php artisan migrate```
+* Running on a specific ```ip php artisan serv```
+* After cloning install packages using ``` flutter pub get ```
 * Above command will install all the necessary packages.
-
-* Run the app on your mobile emulator using below command:
-
-``` flutter run ```
+* Edit constant.dart file and put your domain address
+* Run the app on your mobile emulator using ``` flutter run ```
 
 Thank you happy coding  🎈
