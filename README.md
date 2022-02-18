@@ -1,6 +1,8 @@
 # Flutter Blog App With Using Laravel API 🎈
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faleynaesr&count_bg=%23151515&title_bg=%23FF7BD4&icon=flutter.svg&icon_color=%2302D8FF&title=hits&edge_flat=false"/></a>
 
+#### Inspired by https://www.youtube.com/watch?v=5NqRWhoo7iA&list=PL0qWGthGFUCjFDgYI2k_-TqMNA7925c1s&index=1
+
 ## Login and Register Screen
  
   <table>
